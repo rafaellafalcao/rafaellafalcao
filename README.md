@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rafaellafalcao
+- 👀 I’m interested in tec
+- 🌱 I’m currently learning html and css
+- 📫 How to reach me... send an e-mail to rafaella.maria@hotmail.com and share some contents.
